@@ -27,11 +27,8 @@ This is a Python-based **Guess the Number** game where the computer randomly sel
    - Use Python's `random.randint()` to generate a random number within the range.
 
 3. **Calculate Chances**:
-   - Calculate the maximum chances using the formula:  
-     \[
-     \text{chances} = \lceil \log_2(\text{higher} - \text{lower} + 1) \rceil
-     \]
-
+   - Calculate the maximum chances.
+     
 4. **Game Loop**:
    - Repeat until the user guesses correctly or runs out of chances:
      - Get the user's guess and validate it.
