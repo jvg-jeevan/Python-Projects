@@ -1,4 +1,4 @@
-# Guess-The-Number-Python
+# Guess-Number
 
 # Number Guessing Game
 
@@ -20,4 +20,4 @@ This is a simple number guessing game implemented in Python.
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License.
