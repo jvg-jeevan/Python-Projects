@@ -94,5 +94,3 @@ Where `n` is the size of the file being read. The time complexity is proportiona
 - **How It Works**: A concise explanation of the core steps and libraries used in the program.
 - **Complexity Analysis**: A table summarizing the time and space complexities of the algorithm.
 - **Example Output**: Shows typical outputs for matching and non-matching files.
-
-This README is designed to help users understand both how the program works and how to use it efficiently. It also includes information about the algorithm, ensuring that it can be easily followed by developers or users who wish to modify or extend the program.
