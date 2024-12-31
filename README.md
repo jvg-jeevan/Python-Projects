@@ -1,13 +1,10 @@
-Here’s a README template for your repository:
-
-```markdown
 # Python Projects
 
 This repository contains a collection of Python projects, showcasing a variety of applications and implementations. Each project is organized into its own directory for easy exploration and understanding.
 
 ## Repository Structure
 
-```
+
 python-projects/
 ├── project1/
 │   ├── main.py
@@ -16,23 +13,23 @@ python-projects/
 │   ├── script.py
 │   └── README.md
 └── requirements.txt
-```
 
-- **project1/**: Description of the first project.
-- **project2/**: Description of the second project.
-- **requirements.txt**: Common dependencies for the projects.
+
+- project1/: Description of the first project.
+- project2/: Description of the second project.
+- requirements.txt: Common dependencies for the projects.
 
 ## Projects
 
 ### 1. Project 1
-- **Description**: Brief overview of the project.
-- **Features**: Key functionalities implemented.
-- **Usage**: How to run the project.
+- Description: Brief overview of the project.
+- Features: Key functionalities implemented.
+- Usage: How to run the project.
 
 ### 2. Project 2
-- **Description**: Brief overview of the project.
-- **Features**: Key functionalities implemented.
-- **Usage**: How to run the project.
+- Description: Brief overview of the project.
+- Features: Key functionalities implemented.
+- Usage: How to run the project.
 
 ## How to Use
 
