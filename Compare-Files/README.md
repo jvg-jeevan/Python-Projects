@@ -51,9 +51,6 @@ Function CompareFiles(fileName1, fileName2):
 2. The files are read in chunks of 1024 bytes to avoid memory overload, especially for large files.
 3. The program then compares the hash values of both files. If they match, the files are identical; if not, they are different.
 
-## Requirements
-- Python 3.x
-- No additional libraries are required aside from the built-in `hashlib`.
 
 ## Usage
 
